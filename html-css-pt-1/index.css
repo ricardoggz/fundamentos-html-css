@@ -1,0 +1,20 @@
+/*En css escribimos nuestros estilo*/
+/*ID por etiqueta (general)*/
+p{
+   background-color: green;
+}
+span{
+   background-color: blue;
+}
+img{
+   background-color: yellowgreen;
+   padding:30px;
+}
+/*Clase*/
+.morado{
+   background-color: blueviolet;
+}
+/*ID*/
+#rojo{
+   background-color: red;
+}
